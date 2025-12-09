@@ -1,4 +1,4 @@
-#failed interview task.
+#failed interview task :((
 
 def getReqStatus(requests):
     res = {}
